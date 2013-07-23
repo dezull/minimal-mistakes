@@ -1,19 +1,19 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            blog.dezull.my
+tagline:          Life is short, repent
+description:      Code and life. Mainly code.
 #Comment out url when working locally to resolve base urls correctly
 url:              http://your-site.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Dzul Nizam
+  # avatar:         bio-photo.jpg
+  bio:            "Writing code makes me happy."
+  email:          dezull@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter:        twitter.com/dezull
   facebook:       
-  github:         
+  github:         github.com/dezull
   linkedin:       
   instagram:      
   lastfm:         
@@ -34,14 +34,9 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
-
+  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Kuala_Lumpur
 future:      true
 pygments:    true
 markdown:    kramdown
