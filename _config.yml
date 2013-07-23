@@ -2,7 +2,7 @@ title:            blog.dezull.my
 tagline:          Life is short, repent
 description:      Code and life. Mainly code.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://dezull.github.io
 
 # Owner/author information
 owner:
