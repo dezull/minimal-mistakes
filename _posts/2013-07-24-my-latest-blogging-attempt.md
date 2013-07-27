@@ -4,6 +4,7 @@ title: My Latest Blogging Attempt
 modified: 2013-07-24
 category: articles
 tags: [random]
+comments: true
 ---
 
 {% highlight php %}
