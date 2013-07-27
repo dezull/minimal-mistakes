@@ -41,6 +41,9 @@ future:      true
 pygments:    true
 markdown:    kramdown
 
+# site wide comments, can be configured for individual posts via front-matter
+comments:    true
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
