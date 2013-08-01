@@ -16,7 +16,7 @@ Here are some of my notable works (publicly available works, [contact me](mailto
 
 ### Web Application
 
-* [mycite.my](http://mycite.my ) - Malaysian Citation Index, like [Scopus](http://www.scopus.com), but for Malaysian journals. Built on [Symfony2](http://symfony.com) with superfast [Sphinx](http://sphinxsearch.com/) indexer, migrated from the unmaintaniable mess of plain PHP.
+* [mycite.my](http://mycite.my ) - Malaysian Citation Index, like [Scopus](http://www.scopus.com), but for Malaysian journals. Built on [Symfony2](http://symfony.com) with superfast [Sphinx](http://sphinxsearch.com/) indexer, migrated from the unmaintainable mess of plain PHP.
 
 ### Android
 
