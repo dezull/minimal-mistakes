@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Overlaying View in Android
+modified: 2013-08-02
 category: articles
 tags: [code, android]
 comments: true
@@ -10,7 +11,7 @@ Here is what I want to achieve, overlaying a View, on top of another View. See b
 
 ![Android screenshot]({{ site.url }}/assets/post-images/android-overlay-view.png)
 
-So I want to put the icon, surrounded by a blue border, which is overlaid on top of another View (or Views!). Luckily, RelativeLayout allows to position the contained View on top of another. Just make sure the overlaying View is declared after the overlaid View inside the layout xml.
+So I want to put the icon, surrounded by a blue border, which is overlaid on top of another View (or Views!). Luckily, RelativeLayout allows us to position the contained View on top of another. Just make sure the overlaying View is declared after the overlaid View inside the layout xml.
 
 {% highlight xml %}
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -74,3 +75,5 @@ So I want to put the icon, surrounded by a blue border, which is overlaid on top
 
 </RelativeLayout>
 {% endhighlight  %}
+
+There it is. I wish it was simpler.
