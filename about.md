@@ -20,7 +20,7 @@ Here are some of my notable works (publicly available works, [contact me](mailto
 
 ### Android
 
-* [FancyLiveWall](https://play.google.com/store/apps/details?id=com.bulb_vision.wallpaper.fancylivewall&hl=en) - A live wallpaper, showing user photos with customizable effects & themes. It was my first attempt on Android development, full of bugs and currently not being maintained. But still, more that 50, 000 users have installed it.
+* [FancyLiveWall](https://play.google.com/store/apps/details?id=com.bulb_vision.wallpaper.fancylivewall&hl=en) - A live wallpaper, showing user photos with customizable effects & themes. It was my first attempt on Android development, full of bugs and currently not being maintained. But still, more than 50, 000 users have installed it.
 
 * [Direktori Halal](https://play.google.com/store/apps/details?id=com.blogspot.aptgetmoo.dhj&hl=en) - A directory for Halal products & premises, for Malaysian users. The data is fetched from [JAKIM's web directory](http://www.halal.gov.my/v3/index.php/ms/direktori-halal-malaysia/126-direktori-halal-malaysia). The app is very stable, not a single bug report for the last 6 months!.
 
