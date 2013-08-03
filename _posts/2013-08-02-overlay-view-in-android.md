@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overlaying View in Android
-modified: 2013-08-02
+modified: 2013-08-03
 category: articles
 tags: [code, android]
 comments: true
@@ -75,5 +75,24 @@ So I want to put the icon, surrounded by a blue border, which is overlaid on top
 
 </RelativeLayout>
 {% endhighlight  %}
+
+And the `iconContainer` shape:
+
+{% highlight xml %}
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <solid
+        android:color="@android:color/transparent" />
+
+    <corners
+        android:radius="10dp" />
+
+    <stroke
+        android:color="#00CCFF"
+        android:width="4dp" />
+
+</shape>
+{% endhighlight %}
 
 There it is. I wish it was simpler.
